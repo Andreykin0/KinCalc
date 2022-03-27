@@ -1,0 +1,2 @@
+# KinCalc
+Калькулятор на python
